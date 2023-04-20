@@ -1,12 +1,12 @@
 {
   "name": "quill-vue3",
   "version": "3.2.37",
-  "author": "chuzhixin",
-  "homepage": "https://chu1204505056.gitee.io/admin-pro",
+  "author": "",
+  "homepage": "",
   "main": "lib/quill-vue3.umd.min.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chuzhixin/vab-quill"
+    "url": "https://github.com/Leega0/quill-vue3"
   },
   "scripts": {
     "serve": "vue-cli-service serve",
